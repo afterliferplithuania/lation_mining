@@ -1,0 +1,81 @@
+{
+    "notify": {
+        "missing-item": "Man kažko trūksta, kad tai padaryčiau",
+        "not-experienced": "Atrodo, dar neturiu pakankamai patirties tai daryti",
+        "missing-pickaxe": "Man reikia kirtiklio, kurį iš tikrųjų galėčiau naudoti",
+        "pickaxe-no-durability": "Mano kirtiklis visiškai susidėvėjęs..",
+        "nighttime": "Panašu, kad negalima kasti naktį",
+        "no-money": "Neturi pakankamai pinigų",
+        "no-item": "Neturi pakankamai šio daikto",
+        "cant-carry": "Negaliu tiek panešti",
+        "max-ingots": "Vienu metu galima ištirpdyti daugiausiai %s luitų"
+    },
+    "target": {
+        "mine-ore": "Kasti",
+        "mine-shop": "Kalbėtis",
+        "smelt-ore": "Tirpdyti"
+    },
+    "textui": {
+        "smelt": "Tirpdoma (%s/%s) - %s%%"
+    },
+    "inputs": {
+        "label": "Kiekis",
+        "desc": "Kiek nori?"
+    },
+    "player-data": {
+        "level-title": "Kasyba | Lygis %s/%s",
+        "level-desc": "Šiuo metu turi %sXP",
+        "stats-title": "Viso laiko statistika",
+        "stats-desc": "Peržiūrėk visą savo kasybos statistiką",
+        "meta-next-level": "Kitas lygis",
+        "meta-remainder": "Liko",
+        "meta-maxed-level": "Pasiektas aukščiausias lygis"
+    },
+    "stats-menu": {
+        "main-title": "Viso laiko statistika",
+        "mined-title": "Iškasta",
+        "mined-desc": "Iškasiai iš viso %s rūdų",
+        "smelted-title": "Ištirpdyta",
+        "smelted-desc": "Ištirpdei iš viso %s luitų",
+        "earned-title": "Uždirbta",
+        "earned-desc": "Iš viso uždirbai $%s"
+    },
+    "mine-menu": {
+        "main-title": "Kasyklos",
+        "leaderboards-title": "Lyderių lentelė",
+        "leaderboards-desc": "Peržiūrėk 10 geriausių kasėjų",
+        "shop-title": "Parduotuvė",
+        "shop-desc": "Čia gali įsigyti kasybos įrangos",
+        "pawn-title": "Lombardas",
+        "pawn-desc": "Parduok rūdas ir daugiau – užsidirbk"
+    },
+    "shop-menu": {
+        "main-title": "Kasyklos: Parduotuvė",
+        "pickaxe-title": "%s | Lygis %s",
+        "item-desc": "Pirk %s už $%s"
+    },
+    "pawn-menu": {
+        "main-title": "Kasyklos: Lombardas",
+        "item-title": "Parduoti %s",
+        "item-desc": "Parduok %s už $%s"
+    },
+    "leaderboard-menu": {
+        "main-title": "Kasyklos: Lyderių lentelė",
+        "player-desc": "Lygis: %s | XP: %s | Iškasta iš viso: %s"
+    },
+    "smelt-menu": {
+        "main-title": "Tirpdykla",
+        "ingot-desc": "Reikia: %s"
+    },
+    "logs": {
+        "mined-title": "Iškasta rūda",
+        "mined-message": "%s (identifikatorius: %s) iškasė uolą ir gavo %s",
+        "smelted-title": "Ištirpytas luitas",
+        "smelted-message": "%s (identifikatorius: %s) ištirpė x%d %s",
+        "purchased-title": "Pirkimas parduotuvėje",
+        "purchased-message": "%s (identifikatorius: %s) nusipirko x%d %s",
+        "pawned-title": "Pardavimas lombarde",
+        "pawned-message": "%s (identifikatorius: %s) pardavė x%d %s"
+    }
+}
+
